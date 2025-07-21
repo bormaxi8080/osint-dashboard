@@ -13,7 +13,7 @@
 ----
 ### PROJECT NOTES:
 
-**IMPORTANT!** The project is integrated with the Obsidian platform () not cross-platform. The project contains links intended for previewing resources and sites that are not supported by other platforms such as
+**IMPORTANT!** The project is integrated with the Obsidian platform () not cross-platform. The project contains links intended for previewing resources and sites that are not supported by other platforms such as Caret, Typora, VSCode. This is a specific syntax of the LinkPreview plugin for Obsidian and is not part of the Markdown (CommonMark) standard.
 
 For correct display, install the **Obsidian Link Embed plugin**: https://github.com/Seraphli/obsidian-link-embed
 
