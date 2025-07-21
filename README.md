@@ -20,6 +20,7 @@ For correct display, install the **Obsidian Link Embed plugin**: https://github.
 When entering a link in Obsidian, click you will see:
 
 ![alt text](img/create_link.png)
+
 If you want to generate a priview, click "Create Embed".
 
 This creates a code:
@@ -36,4 +37,5 @@ aspectRatio: "148.54586129753915"
 And you will see:
 
 ![alt text](img/osint_timeline.png)
+
 If you do not want to generate a preview, click "Dismiss".
