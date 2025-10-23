@@ -1,6 +1,4 @@
-### OSINTech start.me Dashboards
-
-Links Page Address: https://start.me/p/nRz81L/osintech-links-board
+### OSINTech start.me Dashboard
 
 ![alt text](./img/osintech_main_board.png)
 
