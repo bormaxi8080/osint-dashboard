@@ -17,3 +17,23 @@ bormaxi8080 OSINT timeline weekly newseletter with collection of tools, services
 This repository encapsulates a list of repositories from the GitHub, marked with an asterisk relating to the subject of OSINT, Cybersecurity, DevOps / System Administration and specific development.
 
 ![alt text](./img/osint_repos_list.png)
+
+### Planned Tabs:
+
+- usernames
+- email
+- phones
+- archives
+- genealogy
+- logistics & postal
+- socmint
+- libraries
+- universities
+- avia companies (ru)
+- banks (ru)
+- sanctions
+- finance intelligence
+- big pharma
+- mobile operators
+- gar bage dumps (ru)
+- media garbage dumps (ru)
