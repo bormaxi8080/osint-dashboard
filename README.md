@@ -35,5 +35,5 @@ This repository encapsulates a list of repositories from the GitHub, marked with
 - finance intelligence
 - big pharma
 - mobile operators
-- gar bage dumps (ru)
+- garbage dumps (ru)
 - media garbage dumps (ru)
